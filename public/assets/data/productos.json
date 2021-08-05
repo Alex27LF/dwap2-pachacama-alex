@@ -1,0 +1,38 @@
+[
+    {
+        "img": "assets/img/producto1.png",
+        "nombre": "Buso Bayer",
+        "color": "Rojo",
+        "precio": "26,10 €"
+    },
+    {
+        "img": "assets/img/producto3.png",
+        "nombre": "Gorro Logo",
+        "color": "Negro",
+        "precio": "19,90 €"
+    },
+    {
+        "img": "assets/img/producto4.png",
+        "nombre": "Camiseta",
+        "color": "S 20/21",
+        "precio": "79.9 €"
+    },
+    {
+        "img": "assets/img/producto2.png",
+        "nombre": "Chaquta",
+        "color": "Gris",
+        "precio": "49.9 €"
+    },
+    {
+        "img": "assets/img/producto5.png",
+        "nombre": "Camiseta",
+        "color": "S 21/22",
+        "precio": "79.9 €"
+    },
+    {
+        "img": "assets/img/producto6.png",
+        "nombre": "Camisa",
+        "color": "Gris",
+        "precio": "19.9 €"
+    }
+]
